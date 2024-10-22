@@ -1,8 +1,3 @@
-// File: finalconsolegame.cpp
-// Version: V1.0
-// Date: 14-02-2024
-// Name: Imama Zubair
-// ID: 2023-BS-CS-124
 // This program was created to build an efficient and working number catching game
 
 #include <iostream>
